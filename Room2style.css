@@ -1,0 +1,41 @@
+body {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(IMG/escape-room-key.jpeg);
+    background-size: cover;
+}
+
+.container {
+    background-image: none;
+}
+
+
+.thin-text {   
+    font-size: 20px;
+    font-weight: 300; 
+    color: white; 
+    text-shadow: 2px 2px 2px black; 
+}
+
+button {
+    height: 50px;
+    width: 100px;
+    padding: 5px 5px;
+    font-size: 15px;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 6px;
+    position: center;
+}
+
+.room2Text {
+    color: white;
+    font-size: 60px;
+    text-align: center;
+}
+
+.key {
+    width: 70px; 
+    height: auto; 
+    
+    top: 200px; 
+    right: 250px; 
+}
